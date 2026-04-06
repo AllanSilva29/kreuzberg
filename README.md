@@ -196,31 +196,5 @@ docker ps
 
 * Porta já em uso
 
----
-
-# 💡 Dicas finais
-
-* PDFs digitais → extração perfeita
-* PDFs escaneados → OCR obrigatório
-* Matemática → pode sair distorcida
-
----
-
-# 🏁 Resultado
-
-Você agora consegue:
-
-* Extrair texto de qualquer documento
-* Lidar com PDFs escaneados
-* Salvar e processar resultados
-* Preparar dados para LLM
-
----
-
-Se quiser evoluir:
-
-* embeddings
-* busca semântica
-* RAG pipeline
 
 Isso já é base sólida pra tudo isso.
